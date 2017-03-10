@@ -5,11 +5,11 @@ Varuna Runtime library.
 ## Installing
 
 This repository is meant to be used as a `git submodule` for the Varuna compiler,
-in the directory src/vart.
+in the directory projects/vart.
 
 ```sh
 # In compiler root
-$ git submodule add https://github.com/varuna-lang/vart.git src/vart
+$ git submodule add https://github.com/varuna-lang/vart.git projects/vart
 ```
 
 ## License
