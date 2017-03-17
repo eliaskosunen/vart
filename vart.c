@@ -2,9 +2,9 @@
 /* This file is distributed under the 3-Clause BSD License */
 /* See LICENSE for details */
 
-extern int _Z4mainv();
+extern int _Z4mainv(void);
 
-int main(int argc, char** argv)
+int main()
 {
     return _Z4mainv();
 }
